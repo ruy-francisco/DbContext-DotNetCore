@@ -1,0 +1,1 @@
+# Project to implement a DB Context Pattern in .Net Core
